@@ -1,0 +1,23 @@
+{
+  "name": "request_header",
+  "version": "1.0.0",
+  "description": "API project for freeCodeCamp",
+  "main": "server.js",
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"cors": "^2.8.1"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pliniusblah/api-header-parser.git"
+  },
+  "author": "Plínio S Brito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pliniusblah/api-header-parser/issues"
+  },
+  "homepage": "https://github.com/pliniusblah/api-header-parser#readme"
+}
