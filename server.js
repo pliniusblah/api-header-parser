@@ -4,7 +4,8 @@
 // init project
 const express = require('express');
 const app = express();
-
+require('dotenv').config()
+ 
 const port = process.env.PORT || 3000;
 
 // enable CORS (https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
